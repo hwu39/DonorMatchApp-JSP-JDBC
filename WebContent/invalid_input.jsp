@@ -1,4 +1,4 @@
-<%@ taglib prefix="tagfiles" tagdir="/WEB-INF/tags" %>
+<%@ taglib prefix="tagfiles" tagdir="WEB-INF/tags" %>
 <%@page import="com.match.Person"%>
 
 <!DOCTYPE html>

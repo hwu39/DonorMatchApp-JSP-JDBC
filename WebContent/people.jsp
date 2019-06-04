@@ -1,4 +1,4 @@
-<%@ taglib prefix="tagfiles" tagdir="/WEB-INF/tags" %>
+<%@ taglib prefix="tagfiles" tagdir="WEB-INF/tags" %>
 <%@page import="com.match.*"%>
 <%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c" %>
 

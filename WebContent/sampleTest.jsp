@@ -1,5 +1,5 @@
 <%@page import="com.match.Person"%>
-<%@ taglib prefix="tagfiles" tagdir="/WEB-INF/tags" %>
+<%@ taglib prefix="tagfiles" tagdir="WEB-INF/tags" %>
 
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
